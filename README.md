@@ -2,8 +2,8 @@
 
 - :pushpin: Brazil.
 - :computer: Technology Enthusiast.
-- :rocket: Full Stack Developer.
-- :elephant: Currently working with PHP and VUE.
+- :rocket: Software Analyst.
+- :elephant: Currently working with PHP.
 
 #### How can I help you? :mailbox_with_mail:
 [Twitter](https://twitter.com/galloaleonardo) | [Linkedin](https://www.linkedin.com/in/galloaleonardo/) | galloaleonardo@gmail.com
