@@ -2,7 +2,7 @@
 
 - :pushpin: Brazil.
 - :computer: Technology Enthusiast.
-- :rocket: Software Analyst.
+- :rocket: Software Developer.
 - :elephant: Currently working with PHP.
 - :open_book: Studyng Golang.
 
