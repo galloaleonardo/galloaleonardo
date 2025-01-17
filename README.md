@@ -2,7 +2,7 @@
 
 - :pushpin: Brazil.
 - :computer: Technology Enthusiast.
-- :rocket: Software Archtiect.
+- :rocket: Software Architect.
 - :computer: Currently working with NodeJS/Typescript.
 
 #### How can I help you? :mailbox_with_mail:
